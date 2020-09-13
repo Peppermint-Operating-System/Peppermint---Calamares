@@ -1,0 +1,32 @@
+---
+componentName:    peppermint
+welcomeStyleCalamares: false
+windowPlacement: center
+
+strings:
+    productName:         Peppermint GNU/Linux
+    shortProductName:    Peppermint
+    version:             11 (Pep)
+    shortVersion:        11
+    versionName:         Peppermint 11 (Pep)
+    shortVersionName:    Peppermint 11
+    bootloaderEntryName: Peppermint
+    productUrl:          https://peppermintos.com
+    supportUrl:          https://forum.peppermintos.com
+    releaseNotesUrl:     https://peppermintos.com/category/release-notes/
+    
+images:
+    productLogo:         "peppermint-logo.png"
+    productIcon:         "peppermint-logo.png"
+    productWelcome:      "welcome.png"
+  
+
+slideshow:               "show.qml"
+
+style:
+    sidebarBackground:   "#2c3133"
+    sidebarText:         "#FFFFFF"
+    sidebarTextSelect:   "#2c3133" 
+
+    
+
