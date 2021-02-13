@@ -1,0 +1,30 @@
+---
+componentName:   peppermint
+welcomeStyleCalamares: false
+windowExpanding: fullscreen
+
+strings:
+    productName:         Peppermint 
+    shortProductName:    Peppermint
+    version:             11 
+    shortVersion:        11
+    versionedName:       Peppermint 11
+    shortVersionedName:  Peppermint 11
+    bootloaderEntryName: Peppermint
+    productUrl:          https://www.peppermintos.com
+    supportUrl:          https://forum.peppermintos.com
+    releaseNotesUrl:     https://www.peppermintos.com
+
+images:
+    productLogo:         "pep-logo.png"
+    productIcon:         "pep-logo.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#2c3133"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#4d7079"
+
+
